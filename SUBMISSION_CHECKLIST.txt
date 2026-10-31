@@ -1,0 +1,7 @@
+SUBMISSION CHECKLIST
+
+[ ] Replace demonstration financial values in financial_chatbot.py with Task 1 results.
+[ ] Run: python financial_chatbot.py
+[ ] Run: python -m unittest -v test_financial_chatbot.py
+[ ] Review README.md and update student/course details if required.
+[ ] Submit this ZIP file.
